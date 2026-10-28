@@ -1,0 +1,10 @@
+streamlit
+openai
+python-dotenv
+SQLAlchemy>=2.0
+psycopg[binary]
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+APScheduler
